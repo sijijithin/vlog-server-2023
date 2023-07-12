@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "author": "Hazel",
+      "categories": "sports",
+      "title": "GOLF: Aditi closes with birdies on last two to make cut",
+      "content": "GOLF: Aditi closes with birdies on last two to make cutGOLF: Aditi closes with birdies on last two to make cut GOLF: Aditi closes with birdies on last two to make cutGOLF: Aditi closes with birdies on last two to make cut",
+      "photo": "https://ss-i.thgim.com/public/golf/f35li6/article66982407.ece/alternates/FREE_1200/1499253303.jpg"
+    },
+    {
+      "id": "c2",
+      "author": "Edwin",
+      "categories": "sports",
+      "title": "India Skipper Rohit Sharma Reacts As ICC Announces 2023 ODI World Cup Schedule",
+      "content": "India Skipper Rohit Sharma Reacts As ICC Announces 2023 ODI World Cup ScheduleIndia Skipper Rohit Sharma Reacts As ICC Announces 2023 ODI World Cup ScheduleIndia Skipper Rohit Sharma Reacts As ICC Announces 2023 ODI World Cup ScheduleIndia Skipper Rohit Sharma Reacts As ICC Announces 2023 ODI World Cup Schedule",
+      "photo": "https://imagevars.gulfnews.com/2019/06/06/India-s-Rohit-Sharma_16b2cfa4978_large.jpg"
+    },
+    {
+      "id": "c3",
+      "author": "Freddy",
+      "categories": "sports",
+      "title": "SAFF Championship: Sunil Chhetri Works His Magic But India Draw 1-1 With Kuwait",
+      "content": "SAFF Championship: Sunil Chhetri Works His Magic But India Draw 1-1 With KuwaitSAFF Championship: Sunil Chhetri Works His Magic But India Draw 1-1 With Kuwait.SAFF Championship: Sunil Chhetri Works His Magic But India Draw 1-1 With Kuwait",
+      "photo": "https://c.ndtvimg.com/2023-06/64do45l_gsgs_625x300_27_June_23.jpeg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "c4",
+      "author": "swetha",
+      "categories": "cinema",
+      "title": "Debutant directors Malayalam short film Ek Kahani  A Dubai Story wins hearts on YouTube",
+      "content": "Debutant directors Malayalam short film Ek Kahani  A Dubai Story wins hearts on YouTubeDebutant directors Malayalam short film Ek Kahani  A Dubai Story wins hearts on YouTube",
+      "photo": "https://th-i.thgim.com/public/incoming/2ms9wz/article67018833.ece/alternates/FREE_1200/Poster%20of%20Anoop%27s%20film.jpg"
+    },
+    {
+      "id": "c5",
+      "author": "Meelu ",
+      "categories": "Science",
+      "title": "Months after its last raise, Realtime Robotics drums up another $9.5 million",
+      "content": "Months after its last raise, Realtime Robotics drums up another $9.5 millionMonths after its last raise, Realtime Robotics drums up another $9.5 millionMonths after its last raise, Realtime Robotics drums up another $9.5 million",
+      "photo": "https://media.medicalbag.com/images/2018/11/27/robotdoctorg983942394_1509302.jpg"
+    },
+    {
+      "id": "c6",
+      "author": "Jithin",
+      "categories": "Science",
+      "title": "Nuclear explosions: Baba Vanga's astonishing prediction for 2023",
+      "content": "Fortune-telling is an ancient mystical skill that is given little regard these days. However, there are a few special cases that make even the biggest skeptics question the realms of possibility. Baba Vanga was one of those rare figures. This old and blind Bulgarian woman is rumored to have predicted some of the greatest world events in recent history. She died more than two decades ago, but many of her most famous prophecies came to fruition after her death.",
+      "photo": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1dgKm5.img?w=800&h=415&q=60&m=2&f=jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "jithin",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "username": "siji",
+      "password": "password"
+    },
+    {
+      "username": "abinx",
+      "email": "abinxavier@gmail.com",
+      "password": "password",
+      "id": "3"
+    },
+    {
+      "username": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "username": "siji",
+      "email": "siji@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "username": "lucy",
+      "email": "lucy@gmail.com",
+      "password": "lucy",
+      "id": 6
+    },
+    {
+      "username": "s",
+      "email": "siji@gmail.com",
+      "password": "1",
+      "id": 7
+    },
+    {
+      "username": "siji",
+      "email": "siji@outlokk.com",
+      "password": "password",
+      "id": 8
+    },
+    {
+      "username": "lucy",
+      "email": "lucy@gmail",
+      "password": "lucy",
+      "id": 9
+    },
+    {
+      "username": "lucy",
+      "email": "lucy@gmail.com",
+      "password": "lucy",
+      "id": 10
+    }
+  ]
+}
